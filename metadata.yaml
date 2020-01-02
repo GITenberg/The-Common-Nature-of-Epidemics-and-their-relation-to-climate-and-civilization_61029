@@ -1,0 +1,40 @@
+_repo: The-Common-Nature-of-Epidemics-and-their-relation-to-climate-and-civilization_61029
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Southwood
+    aliases:
+    - Southwood-Smith, Thomas
+    - Smith, Thomas Southwood
+    - Smith, T. S. (Thomas Southwood)
+    - Smith, S. (Southwood)
+    birthdate: 1788
+    deathdate: 1861
+    gutenberg_agent_id: '49968'
+    url: http://www.gutenberg.org/2009/agents/49968
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Southwood_Smith
+  editor:
+    agent_name: Baker, Theodore
+    aliases:
+    - Baker, Theodor
+    - Hunt, Theodore
+    - Baker, T. (Theodore)
+    birthdate: 1851
+    deathdate: 1934
+    gutenberg_agent_id: '35473'
+    url: http://www.gutenberg.org/2009/agents/35473
+description: ''
+gutenberg_issued: '2019-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Common Nature of Epidemics
+
+  and their relation to climate and civilization'
+url: http://www.gutenberg.org/ebooks/61029
